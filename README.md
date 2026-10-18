@@ -3,8 +3,8 @@
 **Course:** UML Class Diagram Modelling Assignment - Kigali Independent University (ULK)
 **Instructor:** Eric Maniraguha
 **Group members:**
-- [Full Name 1] - Student ID: [________]
-- [Full Name 2] - Student ID: [________]
+-  abdalla mohmed abdalla - Student ID: [___202511866_____]
+- [Ahmed makawi Abdallah  - Student ID: [_202512664_______]
 
 ## Business idea
 A school or community library needs an information system to register members, manage books, record loans and reservations, and calculate fines for late returns.
@@ -18,7 +18,7 @@ Manual paper registers make it hard to know which books are available, who borro
 
 ## Main classes
 | Class | Role |
-|---|---|
+|202511866|202512644|
 | Person (abstract) | Common data for users |
 | Member | Borrows, returns and reserves books |
 | Librarian | Registers members, adds books, issues loans |
